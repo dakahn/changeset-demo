@@ -257,6 +257,12 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@dakahn/add@workspace:packages/add":
+  version: 0.0.0-use.local
+  resolution: "@dakahn/add@workspace:packages/add"
+  languageName: unknown
+  linkType: soft
+
 "@manypkg/find-root@npm:^1.1.0":
   version: 1.1.0
   resolution: "@manypkg/find-root@npm:1.1.0"
@@ -336,12 +342,6 @@ __metadata:
   checksum: df39c769a7f6e65459b1546bdf64f067c5caff39050a3a6c7793e5881883e41f25c2dd254499b334f49a2971effe29709a4b34e727f6dc00aad7e64436f8c32e
   languageName: node
   linkType: hard
-
-"add@workspace:packages/add":
-  version: 0.0.0-use.local
-  resolution: "add@workspace:packages/add"
-  languageName: unknown
-  linkType: soft
 
 "ansi-align@npm:^2.0.0":
   version: 2.0.0
